@@ -1,5 +1,5 @@
 
-## Stereo Vision using RANSAC
+## Stereo Vision | Camera Calibration | Depth Estimation
 This project implements a Stereo Vision System to extract depth information from stereo image pairs. The system uses advanced computer vision techniques, 
 including camera calibration, stereo rectification, and disparity map generation, to compute depth maps for various environments such as classrooms, trap rooms, 
 and storage rooms. The implementation is done in Python using OpenCV and follows a structured methodology to ensure accuracy and robustness.

@@ -39,9 +39,10 @@ Depth maps were visualized in grayscale and heatmap formats for better interpret
 
 ## Results
 Epipolar lines aligned horizontally in rectified images for all environments (Classroom, Trap Room, Storage Room).
+![image](https://github.com/user-attachments/assets/52ac03fb-9bbc-4160-9477-6db6c112ef91)
 
 Generated disparity maps highlighted depth variations effectively
-
+![1](https://github.com/user-attachments/assets/4d6bea2a-b2bd-4a9a-8d6d-64183541f459)
 
 ## Conclusion
-This project successfully demonstrates a robust implementation of a stereo vision system capable of estimating depth information across various environments with high accuracy. The results validate its applicability in real-world scenarios such as robotics navigation, SLAM, and object detection in cluttered spaces. Feel free to modify this README based on additional details or specific requirements!
+This project successfully demonstrates a robust implementation of a stereo vision system capable of estimating depth information across various environments with high accuracy. The results validate its applicability in real-world scenarios such as robotics navigation, SLAM, and object detection in cluttered spaces.
